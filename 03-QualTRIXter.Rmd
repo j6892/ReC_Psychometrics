@@ -10,6 +10,8 @@ options(scipen=999)#eliminates scientific notation
 
 The focus of this lecture is on the technical and mechanical tools available in Qualtrics (and likely other survey platforms) to increase the effectiveness of your survey.
 
+this is my pull request. 
+
 ## Navigating this Lesson
 
 Here is my attempted change.
